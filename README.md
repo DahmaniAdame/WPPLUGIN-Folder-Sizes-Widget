@@ -1,2 +1,2 @@
-# WPPLUGIN-Folder-Sizes-Widget
-Plugin to help assess WordPress website, "wp-content", and "upload" folders sizes. 
+# WPPLUGIN-Media-Folder-Size
+Plugin to help assess the "uploads" folder size. 
